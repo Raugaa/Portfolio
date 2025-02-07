@@ -1,4 +1,4 @@
-# Garv Vyas - Professional Portfolio
+# Garv Vyas - Portfolio
 
 Welcome to my professional portfolio, showcasing my work as a full-stack developer with expertise in HTML, CSS, JavaScript, React.js, and Node.js. Explore my projects, experience, and skills through this interactive platform.
 
